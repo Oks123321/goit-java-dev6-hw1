@@ -1,0 +1,26 @@
+[
+  {
+    "code": "A",
+    "price": 1.25,
+    "promotionalCount": 3,
+    "promotionalPrice": 3.00
+  },
+  {
+    "code": "B",
+    "price": 4.25,
+    "promotionalCount": null,
+    "promotionalPrice": null
+  },
+  {
+    "code": "C",
+    "price": 1.00,
+    "promotionalCount": 6,
+    "promotionalPrice": 5.00
+  },
+  {
+    "code": "D",
+    "price": 0.75,
+    "promotionalCount": null,
+    "promotionalPrice": null
+  }
+]
